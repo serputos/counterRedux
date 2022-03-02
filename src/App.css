@@ -1,6 +1,18 @@
 .App {
   text-align: center;
 }
+.blueColor {
+  background-color: blue;
+  color: blue;
+}
+.redColor {
+  background-color: red;
+  color: red;
+}
+.greenColor {
+  background-color: green;
+  color: green;
+}
 
 .App-logo {
   height: 40vmin;
